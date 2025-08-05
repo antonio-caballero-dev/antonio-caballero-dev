@@ -48,9 +48,6 @@ I enjoy solving complex problems, optimizing performance, and exploring the late
 
 *Always exploring, always building.*
 
-
-*Always exploring, always building.*
-
 <!--
 **antonio-caballero-dev/antonio-caballero-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
