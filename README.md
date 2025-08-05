@@ -1,5 +1,23 @@
 ## Hi there 👋
 
+# 👋 ¡Hola! Soy Juan Pérez
+
+🎯 Desarrollador Full Stack | Apasionado por la tecnología y la innovación
+
+## 🚀 Sobre mí
+- 💼 Actualmente trabajando en proyectos de [Node.js / React / Python / etc.]
+- 🌱 Aprendiendo: [TypeScript, Docker, etc.]
+- 🛠️ Herramientas: VS Code, Git, Linux, Postman
+
+## 📂 Proyectos Destacados
+- [Nombre del Proyecto](enlace) – Descripción breve
+- [Otro Proyecto](enlace) – Descripción breve
+
+## 📫 How to reach me
+- [LinkedIn](https://linkedin.com/in/acaballerocarrasco)
+- Email: tuemail@ejemplo.com
+
+
 <!--
 **antonio-caballero-dev/antonio-caballero-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
