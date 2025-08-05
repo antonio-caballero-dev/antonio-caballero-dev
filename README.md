@@ -16,7 +16,6 @@ I enjoy solving complex problems, optimizing performance, and exploring the late
 - Natural Language Processing (NLP)
 - Computer Vision
 
-### 🛠️ Languages & Tools
 
 ### 🛠️ Languages & Tools
 
