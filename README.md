@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Antonio Caballero
 
-🎓 Computer Engineer specialized in Computer Engineering  
-💻 Passionate about High-Performance Computing (HPC), Machine Learning, NLP, and Computer Vision
+🎓 Computer Engineer  
+💻 Passionate about Machine Learning, Natural Language Processing and Computer Vision.
 
 ---
 
@@ -20,30 +20,24 @@ I enjoy solving complex problems, optimizing performance, and exploring the late
 - C / C++
 - Python
 - Git, Linux, Bash
-- OpenMP, CUDA (if applicable)
-- NumPy, TensorFlow / PyTorch (if applicable)
+- CUDA, OpenCL
+- OpenMP, MPI
+- Pytorch
 
 ---
 
 ## 📂 Featured Projects
-- `awesome-hpc-tool` – A project focused on parallel computing and optimization using OpenMP  
-- `nlp-text-analyzer` – A Python-based tool for natural language analysis and entity recognition  
-- `cv-image-processor` – Computer vision project using OpenCV to process and classify images  
+- `ClipFinder' 
 
 *(Replace with actual projects and links if available)*
 
 ---
 
-## 📈 GitHub Stats
-
-![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
----
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/your-profile)  
-- 📧 Email: your.email@example.com
+- [LinkedIn](https://linkedin.com/in/acaballerocarrasco)  
+- 📧 Email:antoniocaballeroc@gmail.com
 
 ---
 
