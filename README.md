@@ -17,10 +17,21 @@ I enjoy solving complex problems, optimizing performance, and exploring the late
 - Computer Vision
 
 ### 🛠️ Languages & Tools
+
+### 🛠️ Languages & Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![OpenCL](https://img.shields.io/badge/OpenCL-1C1C1C?style=flat&logo=opencl&logoColor=white)
+![OpenMP](https://img.shields.io/badge/OpenMP-CC9900?style=flat&logo=OpenMP&logoColor=black)
+![MPI](https://img.shields.io/badge/MPI-000000?style=flat)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
 
 - C / C++
 - Python
@@ -43,8 +54,8 @@ I enjoy solving complex problems, optimizing performance, and exploring the late
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/acaballerocarrasco)  
-- 📧 Email:antoniocaballeroc@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ACaballeroCarrasco-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/acaballerocarrasco)
+[![Gmail](https://img.shields.io/badge/Gmail-antoniocaballeroc@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:antoniocaballeroc@gmail.com)
 
 ---
 
