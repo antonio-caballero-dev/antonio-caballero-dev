@@ -17,6 +17,11 @@ I enjoy solving complex problems, optimizing performance, and exploring the late
 - Computer Vision
 
 ### 🛠️ Languages & Tools
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
 - C / C++
 - Python
 - Git, Linux, Bash
@@ -24,12 +29,14 @@ I enjoy solving complex problems, optimizing performance, and exploring the late
 - OpenMP, MPI
 - Pytorch
 
+  
+
 ---
 
 ## 📂 Featured Projects
-- `ClipFinder' 
+- [`ClipFinder`](https://github.com/antonio-caballero-dev/ClipFinder) – A search engine using Whisper and semantic search to find relevant clips based on text queries.
 
-*(Replace with actual projects and links if available)*
+
 
 ---
 
