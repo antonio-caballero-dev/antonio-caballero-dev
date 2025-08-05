@@ -16,12 +16,13 @@ I enjoy solving complex problems, optimizing performance, and exploring the late
 - Natural Language Processing (NLP)
 - Computer Vision
 
-
 ### 🛠️ Languages & Tools
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnubash&logoColor=white)
@@ -29,34 +30,24 @@ I enjoy solving complex problems, optimizing performance, and exploring the late
 ![OpenCL](https://img.shields.io/badge/OpenCL-1C1C1C?style=flat&logo=opencl&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/OpenMP-CC9900?style=flat&logo=OpenMP&logoColor=black)
 ![MPI](https://img.shields.io/badge/MPI-000000?style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-
-- C / C++
-- Python
-- Git, Linux, Bash
-- CUDA, OpenCL
-- OpenMP, MPI
-- Pytorch
-
-  
 
 ---
 
 ## 📂 Featured Projects
+
 - [`ClipFinder`](https://github.com/antonio-caballero-dev/ClipFinder) – A search engine using Whisper and semantic search to find relevant clips based on text queries.
 
-
-
 ---
-
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ACaballeroCarrasco-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/acaballerocarrasco)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ACaballeroCarrasco-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/acaballerocarrasco)  
 [![Gmail](https://img.shields.io/badge/Gmail-antoniocaballeroc@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:antoniocaballeroc@gmail.com)
 
 ---
+
+*Always exploring, always building.*
+
 
 *Always exploring, always building.*
 
