@@ -14,30 +14,38 @@
 </p>
 
 ---
+
 <h3 align="center">🛠️ Languages & Tools</h3>
 
-**💡 Programming Languages**  
 <p align="center">
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
 
-**🤖 Machine Learning & Data Science**  
 <p align="center">
+  <!-- Machine Learning & Data Science -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-**🛠️ Tools & DevOps**  
 <p align="center">
+  <!-- Tools & DevOps -->
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+<h3 align="center">📊 Most Used Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonio-caballero-dev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
