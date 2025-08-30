@@ -43,13 +43,6 @@
 
 ---
 
-<h3 align="center">📊 Most Used Languages</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonio-caballero-dev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
-
 <h3 align="center">🚀 Featured Projects</h3>
 
 - 🎬 **[ClipFinder](https://github.com/antonio-caballero-dev/ClipFinder)**  
