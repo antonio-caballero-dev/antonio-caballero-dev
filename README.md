@@ -3,10 +3,6 @@
 
 ---
 
-- 🚀 Always exploring new challenges in **AI, software engineering, and data science**  
-
----
-
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/acaballerocarrasco/" target="_blank">
@@ -16,6 +12,26 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+---
+
+<h3 align="center">💼 Experience</h3>
+
+- 🖥️ **Software Engineer Intern** – *Company Name* (MM/YYYY – MM/YYYY)  
+  *Short description of your tasks, e.g. developed backend services, optimized ML pipelines, etc.*  
+
+- 🤖 **Machine Learning Research Assistant** – *Institution/University* (MM/YYYY – MM/YYYY)  
+  *Worked on NLP and Computer Vision projects, implementing PyTorch models and data analysis tools.*  
+
+---
+
+<h3 align="center">🎓 Education</h3>
+
+- 📘 **B.Sc. in Computer Engineering** – *University Name* (YYYY – YYYY)  
+  *Relevant coursework: Machine Learning, Computer Vision, Natural Language Processing, Algorithms.*  
+
+- 🎯 *(Optional)* **Exchange Program / Master / Bootcamp** – *Institution* (YYYY – YYYY)  
+  *Brief description if applicable.*  
 
 ---
 
@@ -54,7 +70,7 @@
 
 ---
 
-<h3 align="center">🚀 Relevant Projects</h3>
+<h3 align="center">🚀 Featured Projects</h3>
 
 - 🎬 **[ClipFinder](https://github.com/antonio-caballero-dev/ClipFinder)**  
-  A tool to **search, index, and retrieve video clips** efficiently using **Python, NLP, and Computer Vision** techniques.
+  A search engine to **find clips** using **Natural Language Processing** techniques.
