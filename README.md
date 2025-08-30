@@ -4,7 +4,6 @@
 ---
 
 - 🚀 Always exploring new challenges in **AI, software engineering, and data science**  
-- 📫 Reach me at: **antoniocaballeroc@gmail.com**
 
 ---
 
