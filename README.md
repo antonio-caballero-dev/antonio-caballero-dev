@@ -10,7 +10,7 @@
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/antonio-caballero-dev" target="_blank">
+  <a href="[https://www.linkedin.com/in/antonio-caballero-dev](https://www.linkedin.com/in/acaballerocarrasco/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:antoniocaballeroc@gmail.com">
