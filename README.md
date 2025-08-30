@@ -15,26 +15,6 @@
 
 ---
 
-<h3 align="center">💼 Experience</h3>
-
-- 🖥️ **Software Engineer Intern** – *Company Name* (MM/YYYY – MM/YYYY)  
-  *Short description of your tasks, e.g. developed backend services, optimized ML pipelines, etc.*  
-
-- 🤖 **Machine Learning Research Assistant** – *Institution/University* (MM/YYYY – MM/YYYY)  
-  *Worked on NLP and Computer Vision projects, implementing PyTorch models and data analysis tools.*  
-
----
-
-<h3 align="center">🎓 Education</h3>
-
-- 📘 **B.Sc. in Computer Engineering** – *University Name* (YYYY – YYYY)  
-  *Relevant coursework: Machine Learning, Computer Vision, Natural Language Processing, Algorithms.*  
-
-- 🎯 *(Optional)* **Exchange Program / Master / Bootcamp** – *Institution* (YYYY – YYYY)  
-  *Brief description if applicable.*  
-
----
-
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 **💡 Programming Languages**  
