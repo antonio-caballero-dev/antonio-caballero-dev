@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=header&text=Antonio%20Caballero&fontSize=40&fontAlignY=35&desc=Computer%20Engineer%20%7C%20ML%2C%20NLP%20%26%20CV%20Enthusiast&descSize=20&descAlign=60"/>
-</div>
+<h1 align="center">Hi 👋, I'm Antonio Caballero</h1>
+<h3 align="center">🎓 Computer Engineer | 💻 Passionate about Machine Learning, NLP & Computer Vision</h3>
+
 
 <p align="center">
   <b>🎓 Computer Engineer | 💻 Machine Learning, NLP & Computer Vision Enthusiast</b>
