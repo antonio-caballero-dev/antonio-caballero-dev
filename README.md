@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Antonio Caballero</h1>
-<h3 align="center">🎓 Computer Engineer | 💻 Passionate about Machine Learning, NLP & Computer Vision</h3>
 
 
 <p align="center">
